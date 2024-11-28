@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Articles
 
-Hello World. Hello Friend.
+Highest quality gaming journalism
 
