@@ -13,7 +13,7 @@
   font-display: swap;
 }
 
-$primary_color: {{ site.color | default: "#a505f0" }};
+$primary_color: {{ site.color | default: "#ffff00" }};
 
 .share-button {
    background-color: $primary_color;
