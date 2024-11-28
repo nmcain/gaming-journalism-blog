@@ -11,7 +11,7 @@ lang: en
 plugins:
   - jekyll-seo-tag
 
-color: "#ffea00"
+color: "#ffd600"
 # disqus:
 #   shortname: example-com
 #
