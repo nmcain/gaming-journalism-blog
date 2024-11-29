@@ -1,10 +1,10 @@
-domain: example.com
-url: https://example.com
+domain: nmcain.github.io
+url: https://nmcain.github.io/gaming-journalism-blog/
 baseurl: "/wind"
 
 title: Wind
 email: wind@example.com
-author: Wind Sample
+author: Noah Cain
 
 lang: en
 
