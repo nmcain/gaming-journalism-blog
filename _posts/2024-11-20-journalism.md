@@ -5,7 +5,6 @@ image: /assets/images/tlou2.png
 tags:
   - Opinion
   - Meta
-  - Journalism
   - Noah
 author: Noah Cain
 ---
