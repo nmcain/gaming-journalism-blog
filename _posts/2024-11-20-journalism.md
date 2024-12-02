@@ -6,6 +6,7 @@ tags:
   - Opinion
   - Meta
   - Journalism
+  - Noah
 author: Noah Cain
 ---
 
@@ -16,14 +17,23 @@ Game journalism is on the decline. G/O Media, owner of Kotaku, [laid off nearly 
 A significant issue is that the figures in game journalism are journalists first \- not gamers. Playing video games is not their job, reviewing games and marketing them is.  That disconnect carries into the reviews, which lack passion \- the journalist isn’t consuming the game, the journalist is simply attempting to present the game as-is. That isn’t to say that journalists shouldn’t strive for objectivity, but as an art form, people are searching for more than “good graphics” and “good story”. Gamers want to see innovation in the art form, games that entertain, games that take neat perspectives, beyond simple analysis at face value. On the other end, on the other side of the spectrum between boring objective analysis and subjective blabber, is well, the subjective blabber. Journalists review games, only to complain that they personally didn’t like it. In a [particularly egregious review of *Resident Evil 2*](https://www.vice.com/en/article/resident-evil-2-survivor-compassion/), the journalist complains that the game's story doesn't let them have total control over the morality of the player.
 
 ![][image1]  
-*Pictured: Colin Cambell recants his experiences in the Philippines in his nauseating review of Rock Band 4*
+*Pictured: Colin Campbell recants his experiences in the Philippines in his [nauseating review of Rock Band 4](https://www.polygon.com/2015/6/1/8687867/rock-band-4-preview)*
+
+>A few of my more effervescent, more gregarious, more alive colleagues in game journalism are on stage “rocking out” to The Killers. We are on the rooftop of a pricey hotel in Santa Monica, at a press event organized by Rock Band 4’s developer and publisher Harmonix.
+
+>I’m standing at a safe distance, drinking fizzy water, eating puff pastry canapes and chatting to another colleague about politics in the Philippines. I’m having an OK time.
+
+>I’m supposed to be focusing my attention on Rock Band 4, but there’s more chance of Ferdinand Marcos leaping onto that stage than there is of me mounting the boards, swinging a guitar strap around my neck and yelling “whooooooo.”
+
+>I don’t care about rock music. I dislike crowds and I dislike loud noises. I don’t do public performances, excepting “Toastmasters” which I enjoy from time-to-time, along with half a dozen accountants, schoolteachers and self-improvement nutters.
 
 This brand of “journalists” are far from reputable. There is nothing groundbreaking about their reviews. Their writing reads like the kind of thing you would read for paragraphs above an online recipe. These journalists, like the corporate journalists who write boring reviews, don't consume the games, they write about the game they wanted- like looking at the Mona Lisa and complaining that it wasn’t [Maurizio Cattelan’s *Comedian*](https://en.wikipedia.org/wiki/Comedian_(artwork)). A real advance in gaming journalism would be a quality review that analyses the game from the perspective of the consumer, the types of reviews written by smaller creators, like Shamus Young, and his [excellent review of *Control (2019)*](https://www.shamusyoung.com/twentysidedtale/?p=47984)
 
 > The characters and their stories are fine, but this isn’t really about them. You’re not going to have any intense melodrama or gut-punch character moments like Life is Strange, Walking Dead Season 1 or Last of Us. The story is mostly a framework to keep you moving forward in anticipation of the next reveal. It works, but the world is the real star of this show.
+
 >Take the premise and vibe of your typical Cthulhu story where Old Gods and Unknowable Powers are always trying to creep into our reality and wipe us out / devour us / drive us mad / annihilate our plane of existence. Humanity is hilariously outmatched, always confronting powers and forces beyond their comprehension, and always just barely hanging on. Now take that familiar setting, rip it out of its Victorian framing, and place it in the modern day. There’s a  government agency in charge of keeping a lid on this sort of thing.
 
-Shamus’ review is exactly what I expect from a quality game review. He doesn’t spoil the story, or bore the reader with personal anecdotes or corporate drivel. He analyses the game, and cleverly describes it in an entertaining way. This is what a good game review should be. 
+Compare this to Colin Campbell's Guitar Hero review above. Shamus’ review is exactly what I expect from a quality game review. He doesn’t spoil the story, or bore the reader with personal anecdotes or corporate drivel. He analyses the game, and cleverly describes it in an entertaining way. This is what a good game review should be. 
 
 ### Politics, Unfortunately
 
