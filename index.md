@@ -3,5 +3,5 @@ layout: home
 ---
 # Articles
 
-Highest quality gaming journalism
+High Quality Gaming Journalism, by F5
 
